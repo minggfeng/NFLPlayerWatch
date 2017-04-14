@@ -1,0 +1,1 @@
+ReactDOM.render(<App searchNFLArrest={window.searchNFLArrest}/>, document.getElementById('app'));
